@@ -1,2 +1,2 @@
-# aula-api-rest-json-fazt
+# api-rest-json-fazt
 Aula API Rest JSON (Fazt)
