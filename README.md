@@ -1,7 +1,7 @@
 # Aula API Rest JSON  
 ## Fazt  
-### Link do vídeo  
-<https://www.youtube.com/watch?v=lLsYjzpSDyA>
+
+### [Vídeo da aula](https://www.youtube.com/watch?v=lLsYjzpSDyA)
 
 ### Tópicos  
 
